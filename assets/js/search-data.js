@@ -421,8 +421,8 @@ ninja.data = [{
           description: "An AI agent designed to automate complex academic advising inquiries at UIUC.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/advising_agent/";
-            },},{id: "projects-llm-research-agent-spin",
-          title: 'LLM RESEARCH AGENT (SPIN)',
+            },},{id: "projects-llm-research-agent",
+          title: 'LLM RESEARCH AGENT',
           description: "A verifiable literature retrieval system using Criteria-Driven RAG and Evidence-to-Generate (E2G) pipelines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/asta_research_agent/";
