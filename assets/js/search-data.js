@@ -416,16 +416,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-rag-academic-advising-agent",
+          section: "News",},{id: "projects-rag-academic-advising-agent",
           title: 'RAG Academic Advising Agent',
           description: "An AI agent designed to automate complex academic advising inquiries at UIUC.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/advising_agent/";
+            },},{id: "projects-educational-data-mining",
+          title: 'EDUCATIONAL DATA MINING',
+          description: "Identifying hidden student engagement patterns via clustering and dimensionality reduction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/educational_data_mining/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
