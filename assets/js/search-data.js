@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-rag-academic-advising-agent",
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "projects-rag-academic-advising-agent",
           title: 'RAG Academic Advising Agent',
           description: "An AI agent designed to automate complex academic advising inquiries at UIUC.",
           section: "Projects",handler: () => {
