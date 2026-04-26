@@ -410,8 +410,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-10-shanghai-edu/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-started-a-new-position-as-an-ai-research-intern-at-the-uiuc-atlas-exploration-team-focusing-on-rag-based-advising-agents",
+          title: 'Started a new position as an AI Research Intern at the UIUC ATLAS...',
           description: "",
           section: "News",},{id: "news-honored-to-accept-an-invitation-for-membership-into-the-alpha-kappa-delta-sociological-honors-society",
           title: 'Honored to accept an invitation for membership into the Alpha Kappa Delta Sociological...',
