@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM RESEARCH AGENT (SPIN)
+title: LLM RESEARCH AGENT 
 description: A verifiable literature retrieval system using Criteria-Driven RAG and Evidence-to-Generate (E2G) pipelines.
 img: assets/img/asta_pipeline.jpg
 importance: 3
