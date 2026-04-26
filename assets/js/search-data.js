@@ -408,6 +408,11 @@ ninja.data = [{
             },},{id: "news-",
           title: '',
           description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-12-10-shanghai-edu/";
+            },},{id: "news-",
+          title: '',
+          description: "",
           section: "News",},{id: "news-",
           title: '',
           description: "",
