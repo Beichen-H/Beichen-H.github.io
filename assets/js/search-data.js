@@ -405,12 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-our-article-intelligence-amplification-cultivating-deep-thinking-in-the-ai-era-was-officially-published-in-shanghai-education",
+          title: 'Our article “Intelligence Amplification: Cultivating Deep Thinking in the AI Era” was officially...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-12-10-shanghai-edu/";
-            },},{id: "news-started-a-new-position-as-an-ai-research-intern-at-the-uiuc-atlas-exploration-team-focusing-on-rag-based-advising-agents",
+          section: "News",},{id: "news-started-a-new-position-as-an-ai-research-intern-at-the-uiuc-atlas-exploration-team-focusing-on-rag-based-advising-agents",
           title: 'Started a new position as an AI Research Intern at the UIUC ATLAS...',
           description: "",
           section: "News",},{id: "news-honored-to-accept-an-invitation-for-membership-into-the-alpha-kappa-delta-sociological-honors-society",
