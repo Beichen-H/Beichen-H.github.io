@@ -52,6 +52,3 @@ By clustering students based on engagement metrics (e.g., hand-raising, resource
 **Algorithms:** K-Medoids, K-Prototypes, DBSCAN, t-SNE  
 **Metrics:** Gower Distance, Z-score Standardization  
 **Visualization:** Seaborn, SciPy, Matplotlib
-```
-
-{% endraw %}
