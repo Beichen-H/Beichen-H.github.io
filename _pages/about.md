@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at the **University of Illinois Urbana-Champaign (UIUC)**, pursuing a dual major in Statistics and Sociology, with minors in Computer Science and Data Science.
+I am an undergraduate student at the **University of Illinois Urbana-Champaign (UIUC)**, pursuing a dual major in Computer Science + Statistics and Sociology, with minors in Data Science.
 
 Currently, I work as an **AI Research Intern** for the ATLAS (Applied Technologies for Learning in the Arts & Sciences) Exploration Team. My research interests lie primarily in **Computational Social Science**, with a specific focus on human-AI collaboration, educational data mining, and the sociological impacts of artificial intelligence.
 
