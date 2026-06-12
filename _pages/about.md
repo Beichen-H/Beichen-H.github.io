@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Statistics & Sociology</a> | Minor in CS & Data Science | UIUC
+subtitle: <a href='#'>CS + Statistics & Sociology</a> | Minor in Data Science | UIUC
 
 profile:
   align: right
