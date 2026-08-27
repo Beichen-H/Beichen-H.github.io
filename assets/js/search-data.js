@@ -429,6 +429,11 @@ ninja.data = [{
           description: "Identifying hidden student engagement patterns via clustering and dimensionality reduction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/educational_data_mining/";
+            },},{id: "projects-idx-exchange-data-analysis",
+          title: 'IDX Exchange Data Analysis',
+          description: "Data analysis and quantitative modeling internship project for market insights (Summer 2026).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/idx-exchange/";
             },},{id: "projects-loopower",
           title: 'Loopower',
           description: "A portable, contract-first skill library for Codex-native sub-agent workflows and DAG execution governance.",
