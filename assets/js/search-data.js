@@ -429,6 +429,11 @@ ninja.data = [{
           description: "Identifying hidden student engagement patterns via clustering and dimensionality reduction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/educational_data_mining/";
+            },},{id: "projects-loopower",
+          title: 'Loopower',
+          description: "A portable, contract-first skill library for Codex-native sub-agent workflows and DAG execution governance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/loopower/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
