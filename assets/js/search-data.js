@@ -424,6 +424,11 @@ ninja.data = [{
           description: "A verifiable literature retrieval system using Criteria-Driven RAG and Evidence-to-Generate (E2G) pipelines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/asta_research_agent/";
+            },},{id: "projects-digipulse-platform-cinolu",
+          title: 'DigiPulse Platform (CINOLU)',
+          description: "Frontend architecture, NgRx state management, and localized QA pipelines for DigiPulse.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cinolu-digipulse/";
             },},{id: "projects-educational-data-mining",
           title: 'EDUCATIONAL DATA MINING',
           description: "Identifying hidden student engagement patterns via clustering and dimensionality reduction.",
